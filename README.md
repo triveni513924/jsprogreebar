@@ -1,4 +1,4 @@
-# jsprogreebar
+# Javascript progrees bar
 Javascript progrees bar
 
 Read data from the endpoint
